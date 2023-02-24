@@ -40,11 +40,11 @@ server.listen(process.env.PORT || 5000, () => {
 ```js
 {
     "users": [
-        { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
+        { "id": 1, "name":"Upendra pal", "email":"upendrapal@live.com", 
         "password":"pass123", "role": "USER"
         },
-        { "id": 2, "name":"Tushant", "email":"tushant@gmail.com", 
-            "password":"pass123", "role": "ADMIN"
+        { "id": 2, "name":"Jivak", "email":"jivakysute@gmail.com", 
+            "password":"admin", "role": "ADMIN"
         }
     ],
     "accounts":[
@@ -71,16 +71,16 @@ Output:
 [
  {
  id: 1,
- name: "Naresh Kumar H",
- email: "nareshkumarh@live.com",
+ name: "Upendra pal",
+ email: "upendrapal@live.com",
  password: "pass123",
  role: "USER"
  },
 {
  id: 2,
- name: "Tushant",
- email: "tushant@gmail.com",
- password: "pass123",
+ name: "Jivak",
+ email: "jivakysute@gmail.com",
+ password: "admin",
  role: "ADMIN"
 }
 ]
@@ -95,8 +95,8 @@ Output:
 ```js
  {
  id: 1,
- name: "Naresh Kumar H",
- email: "nareshkumarh@live.com",
+ name: "Upendra pal",
+ email: "upendrapal@live.com",
  password: "pass123",
  role: "USER"
  }
