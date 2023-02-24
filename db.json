@@ -32,46 +32,86 @@
     ],
     "data":[
         {
-            "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-            },{
-                "id":2,
-                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                "book_name": "Harry Potter 4",
-                "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1499,
-                "borrowed": false
-                },{
-                    "id":3,
-                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                    "book_name": "Harry Potter 2",
-                    "author": "J. K. Rowling",
-                    "genre": "fiction",
-                    "edition": "2021",
-                    "publisher": "Bloomsbury",
-                    "cost": 1299,
-                    "borrowed": false
-                    },{
-                        "id":4,
-                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                        "book_name": "Harry Potter ",
-                        "author": "J. K. Rowling",
-                        "genre": "fiction",
-                        "edition": "2021",
-                        "publisher": "Bloomsbury",
-                        "cost": 1999,
-                        "borrowed": false
-                        }
+            "id": 1,
+            "name": "Mens Casual Premium Slim Fit T-Shirts ",
+            "size": 32,
+            "price": 22.3,
+            "categories": "men's clothing",
+            "discount": "Discounted-items",
+            "avatar": [
+              "https://imagescdn.abof.com/img/app/product/6/691819-7362727.jpg?auto=format&w=239.8125",
+              "https://imagescdn.abof.com/img/app/product/6/691819-7362727.jpg?auto=format&w=239.8125"
+            ],
+            "rating": {
+              "rate": 4.1,
+              "count": 259
+            },
+            "quantity": 1
+          },
+          {
+            "id": 2,
+            "name": "Mens Cotton Jacket",
+            "size": 34,
+            "price": 55.99,
+            "categories": "men's clothing",
+            "discount": "Discounted-items",
+            "avatar": [
+              "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+            ],
+            "rating": {
+              "rate": 4.7,
+              "count": 500
+            },
+            "quantity": 1
+          },
+          {
+            "id": 3,
+            "name": "Mens Casual Slim Fit",
+            "size": 34,
+            "price": 15.99,
+            "categories": "men's clothing",
+            "discount": "Discounted-items",
+            "avatar": [
+              "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+            ],
+            "rating": {
+              "rate": 2.1,
+              "count": 430
+            },
+            "quantity": 1
+          },
+          {
+            "id": 4,
+            "name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "size": 32,
+            "price": 56.99,
+            "categories": "women's clothing",
+            "discount": "Discounted-items",
+            "avatar": [
+              "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+            ],
+            "rating": {
+              "rate": 2.6,
+              "count": 235
+            },
+            "quantity": 1
+          },
+          {
+            "id": 5,
+            "name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "size": 32,
+            "price": 29.95,
+            "categories": "women's clothing",
+            "discount": "Discounted-items",
+            "avatar": [
+              "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+            ],
+            "rating": {
+              "rate": 2.9,
+              "count": 340
+            },
+            "quantity": 1
+          }
 ]
     
 
